@@ -1,9 +1,9 @@
 # Hello There! I'm Rogelio Romo ✌️
 
-**`Full-stack dev and aerospace engineer`**
+**`Software engineer and aerospace engineer`**
 
-I'm a code enthusiast and a passionate learner. All the projects I will show here, are pure demonstration of my skills and knowledge.
-Feel free to comment and make some pull requests as you wish.
+I like to code and Im a passionate learner. All the project on this profile are just a way to communicate what I can do.
+Feel free to comment and make questions if you like.
 
 ---
 
@@ -13,12 +13,12 @@ Feel free to comment and make some pull requests as you wish.
 ### 📫 How to reach me
 I'm from Mexico born in Tijuana. My timezone is Pacific time (PT / UTC -8). If you wish to contact me please feel free to do so, here are my socials.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogelio-romo) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@rogelioromo955) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23042348) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogelio-romo)
 #
 ### 🧑‍🚀 My journey as a developer
 
 All started back in higschool where I learned how to code with arduino for some school projects (line follower robots) and going to state universities competitions as a highschooler. I entered university and choose to study aerospace engineering, although I like coding my passion for the space and astronomy is bigger. There I developer a lot of skills in that area but I also had different classes for programming like matlab, and C++ coding lessons developing small projects. I obtained my graduate degree with good grades and after a few months I started working in a manufacturing company and lasted 2 years. I enjoyed my time there and learned a lot of stuff like working with crossfunctional teams, to resolve problems efficiently, to lead projects and document them, etc.
-But... I wasn't feeling it, the manufacturing business was not for me, so I decided to launch myself into new adventures and started to learn software development and I have to say... I love it! and I'm here improving every day and expecting this to be my full time hobby/job.
+But... I wasn't feeling it, the manufacturing business was not for me, so I decided to launch myself into new adventures and started to learn software development and I have to say... I love it! and I'm here improving every day making this my full time hobby/job.
 #
 <details>
  <summary><h3>📊 GitHub Stats:</h3></summary>
