@@ -7,7 +7,7 @@ Feel free to comment and make questions if you like.
 
 ---
 
-### ⚙️ Tech stack
+### ⚙️ Tech skills
 
 **Programming languages**
 
@@ -38,10 +38,11 @@ I'm from Mexico born in Tijuana. My timezone is Pacific time (PT / UTC -8). If y
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogelio-romo)
 #
+
 ### 🧑‍🚀 My journey as a developer
 
-All started back in highschool where I learned how to code with arduino for some school projects (line follower robots) and going to state universities competitions as a student. I entered university and choose to study aerospace engineering, although I like coding my passion for the space and astronomy is bigger. There I developer a lot of skills in that area but I also had different classes for programming like matlab, and C++ coding lessons developing small projects. I obtained my graduate degree with good grades and after a few months I started working in a manufacturing company and lasted 2 years. I enjoyed my time there and learned a lot of stuff like working with cross functional teams, to resolve problems efficiently, to lead projects and document them, etc.
-But... I wasn't feeling it, the manufacturing business was not for me, so I decided to launch myself into new adventures and started to learn software development and I have to say... I love it! and I'm here improving every day making this my full time hobby/job.
+All started back in highschool where I learned how to code with arduino for some school projects (line follower robots) and going to state universities competitions as a student. I entered university and choose to study aerospace engineering, although I like coding my passion for the space and astronomy is bigger. There I developer a lot of skills in that area but I also had different classes for programming like matlab, and C++ coding lessons developing small projects. I obtained my graduate degree with good grades and after a few months I started working in a manufacturing company and lasted 2 years. I enjoyed my time there and learned a lot of stuff like working with cross functional teams, to resolve problems efficiently, to lead projects and document them, etc. Then decided to try out what would it be to work in as a software developer and started to apply for those roles and ended up landing a position and the rest is history.
+
 #
 <details>
  <summary><h3>📊 GitHub Stats:</h3></summary>
