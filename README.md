@@ -1,9 +1,14 @@
 # Hello There! I'm Rogelio Romo ✌️
 
-**`Software engineer and aerospace engineer`**
+**`Software engineer && aerospace engineer`**
 
 I like to code and Im a passionate learner. All the project on this profile are just a way to communicate what I can do.
 Feel free to comment and make questions if you like.
+
+### 📫 How to reach me
+I'm from Mexico born in Tijuana. My timezone is Pacific time (PT / UTC -8). If you wish to contact me please feel free to do so, here are my socials.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogelio-romo)
 
 ---
 
@@ -33,31 +38,43 @@ Feel free to comment and make questions if you like.
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 #
-### 📫 How to reach me
-I'm from Mexico born in Tijuana. My timezone is Pacific time (PT / UTC -8). If you wish to contact me please feel free to do so, here are my socials.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogelio-romo)
-#
+### 📝 My projects
 
-### 🧑‍🚀 My journey as a developer
+[John Milton Ecommerce](https://www.johnmilton.mx/)
 
-All started back in highschool where I learned how to code with arduino for some school projects (line follower robots) and going to state universities competitions as a student. I entered university and choose to study aerospace engineering, although I like coding my passion for the space and astronomy is bigger. There I developer a lot of skills in that area but I also had different classes for programming like matlab, and C++ coding lessons developing small projects. I obtained my graduate degree with good grades and after a few months I started working in a manufacturing company and lasted 2 years. I enjoyed my time there and learned a lot of stuff like working with cross functional teams, to resolve problems efficiently, to lead projects and document them, etc. Then decided to try out what would it be to work in as a software developer and started to apply for those roles and ended up landing a position and the rest is history.
+- Lead a team of 3 software engineers in the process of development. Tasks, documentation, and deliverables. Also in
+charge of the backend development based on Node.js and Typescript.
+- Designed the architecture for a backend service using a CMS in which the PostgreSQL database could be handled
+using the generated API endpoints using secure implementations with the use of JWT tokens and user role based
+access.
+- Developed the PostgreSQL database table structures and architecture in order to allow the correct use of
+relationships between items and ensure stability. Publication of products, modification of web assets, tracking of
+orders, idempotent payments (Stripe, paypal and mercado pago API’s), user information, and invoices.
+- Managed the media bucket for the assets and documents of the service; also the deployment and build of the service
+via Github Actions CI/CD pipeline and Digital Ocean as the cloud service.
 
-#
-<details>
- <summary><h3>📊 GitHub Stats:</h3></summary>
+[Ratefreaks](https://ratefreaks.win/)
 
-![](https://github-readme-stats.vercel.app/api?username=RogelioRomo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RogelioRomo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RogelioRomo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-#
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RogelioRomo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- RateFreak is an online platform to rate custom collections like music albums and tracks, books, comics, mangas,
+TV Shows, and more. Profile creation, comments and roles. It is based on the famous Letterboxd website but
+including a custom backend and dashboard provided by Payload.
+- It is build using Next.js as the main frontend and backend framework. Hosted on a private Linux VPS, and a
+Cloudflare DNS and domain.
+- Uses PostgreSQL for the database and is hosted also on the VPS using a Docker container and a NGINX
+reverse proxy.
+- Implemented a CI/CD pipeline in order to deploy new changes into the VPS so that a manual deploy inside the server
+wouldn't be required. Implemented with Github Actions.
+
+<!-- ### 🧑‍🚀 My journey as a developer
+
+All started back in highschool where I learned how to code with arduino for some school projects (line follower robots) and going to state universities competitions as a student. I entered university and choose to study aerospace engineering, although I like coding my passion for the space and astronomy is bigger. There I developed a lot of skills in that area but I also had different classes for programming like matlab, and C++ coding lessons developing small projects. I obtained my graduate degree with good grades and after a few months I started working in a manufacturing company and lasted 2 years. I enjoyed my time there and learned a lot of stuff like working with cross functional teams, to resolve problems efficiently, to lead projects and document them, etc. Then decided to try out what would it be to work in as a software developer and started to apply for those roles and ended up landing a position and the rest is history. -->
 
 ---
 
 <!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 -->
+
+
+[def]: https://www.johnmilton.mx/
